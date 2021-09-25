@@ -1,6 +1,6 @@
 # 3D Animation of the three-body Motion in MATLAB
 
-The title of the project is self explanatory. I have created a 3D visualisation of the [three-body problem](https://en.wikipedia.org/wiki/Three-body_problem) in MATLAB. It can be generalise to higher number of bodies by adding differential equations to the threebodyfun.m file.
+I created a 3D visualisation of the [three-body problem](https://en.wikipedia.org/wiki/Three-body_problem) in MATLAB. It can be generalise to higher number of bodies by adding differential equations to the threebodyfun.m file.
 
 ## threebodyfun.m
 The m file contains the differential equations (aka Netown's Laws)for the interacting three bodies. There are 18 equations in the 3-dimensional space, including the velocities and the acceleration of each massive object.
