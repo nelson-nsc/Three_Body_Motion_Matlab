@@ -20,6 +20,5 @@ and choose an integer n for number of steps. Then replace [ti,tf] in
 with tspan.
 
 
-# !!!IMPORTANT!!!
-
+## Warning Message
 If there is warning after you run the script, it is very likely that 2 (or all) of the bodies collide that give a singularity which stops the numerical integration. You need to change the initial conditions to avoid this error. 
